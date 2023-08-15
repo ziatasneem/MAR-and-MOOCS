@@ -1,0 +1,22 @@
+.credit {
+    margin: auto;
+    text-align: center;
+    transform: scale(1.2);
+}
+p{
+    padding: 10px 100px;
+}
+.container {
+
+    text-align: center;
+}
+
+.lnk {
+    color: #5CB8E4;
+}
+
+
+.App {
+    /* transform: scale(1); */
+  }
+  
